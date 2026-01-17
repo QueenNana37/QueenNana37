@@ -1,13 +1,21 @@
-# 🧠 QueenNana37
+# Hi, I’m Hana 👋
 
-Hey! I’m a 16-year-old learning Python, cybersecurity, and ethical hacking.  
-Currently diving into CTFs, breaking mazes, and leveling up one bug at a time 👾
+High school student interested in cybersecurity and computer science.  
+CTFs • Digital forensics • Malware analysis • Networking
 
----
+## About me
+I’m exploring cybersecurity through hands-on practice, including
+Capture The Flag competitions, forensic analysis, and system-level learning.
+I enjoy understanding how systems fail and how they can be secured.
 
-## 🔐 About Me
-- 👑 I go by QueenNana37
-- 🎯 I just solved my first CTF (Clockwork Guardian)!
-- 💻 Currently learning Python, web exploitation, and bug bounty basics
-- 🧩 I love puzzles, challenges, and breaking things (legally)
-- 🏁 Goal: Get my first bug bounty and join a CTF team
+## Interests
+- Capture The Flag (CTF) competitions
+- Digital forensics
+- Malware analysis
+- Linux & networking fundamentals
+
+## Certifications
+- TestOut Security Pro
+- CertiPort Cybersecurity
+- CertiPort Networking & Device Configuration
+- CertiPort Device Configuration
