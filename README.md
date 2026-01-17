@@ -1,18 +1,20 @@
 # Hi, I’m Hana 👋
+High school student | Cybersecurity & Computer Science  
+CTFs • Forensics • Malware Analysis • Web Exploitation
 
-High school student interested in cybersecurity and computer science.  
-CTFs • Digital forensics • Malware analysis • Networking
 
 ## About me
-I’m exploring cybersecurity through hands-on practice, including
-Capture The Flag competitions, forensic analysis, and system-level learning.
-I enjoy understanding how systems fail and how they can be secured.
+I’m a high school student passionate about cybersecurity and computer science, 
+with a strong interest in digital forensics, malware analysis, and applied cryptography.  
+I enjoy breaking systems to understand how to build them more securely.
 
-## Interests
+### Interests
 - Capture The Flag (CTF) competitions
-- Digital forensics
-- Malware analysis
-- Linux & networking fundamentals
+- Digital forensics & incident response
+- Malware reverse engineering
+- Networking & Linux systems
+- Secure system design
+
 
 ## Certifications
 - TestOut Security Pro
