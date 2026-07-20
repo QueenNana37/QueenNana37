@@ -18,6 +18,8 @@ I enjoy breaking systems to understand how to build them more securely.
 
 ## Certifications
 - TestOut Security Pro
+- TestOut Ethical Hacking
 - CertiPort Cybersecurity
 - CertiPort Networking & Device Configuration
 - CertiPort Device Configuration
+- CertiPort Networking
